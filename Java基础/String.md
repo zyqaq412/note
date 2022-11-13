@@ -39,7 +39,7 @@ public final class String
 
 ![image](https://github.com/zyqaq412/note/blob/main/img/Java%E5%9F%BA%E7%A1%80/string1.png)
 
-
+![image](../img/Java基础/string1.png)
 
 
 ###### 3.安全性
