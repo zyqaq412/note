@@ -89,7 +89,8 @@ UserMapper.xml
 
 UserMapper接口   的目录结构要相同
 
-![](..\img\JavaWeb\image-20221111133455041.png)![image-20221111133509550](..\img\JavaWeb\image-20221111133509550.png)
+![image](https://github.com/zyqaq412/note/blob/main/img/JavaWeb/image-20221111133509550.png)
+![image](https://github.com/zyqaq412/note/blob/main/img/JavaWeb/image-20221111133455041.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
