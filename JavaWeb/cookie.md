@@ -40,15 +40,11 @@ Cookie的实现是基于HTTP协议的
 
 ​	响应头：set-cookie
 
-![image](https://github.com/zyqaq412/note/blob/main/img/JavaWeb/cookie响应标头.png)
-
-![image](..\img\JavaWeb\cookie响应标头.png)
+![cookie请求头](cookie.assets/cookie请求头.png)
 
 ​	请求头：cookie
 
-![image](https://github.com/zyqaq412/note/blob/main/img/JavaWeb/cookie请求头.png)
-
-![image](..\img\JavaWeb\cookie请求头.png)
+![cookie响应标头](cookie.assets/cookie响应标头.png)
 
 ### Cookie使用细节
 
@@ -131,7 +127,7 @@ HttpSession session = request.getSession();
 
 ​					钝化的数据路径为:`项目目录\target\tomcat\work\Tomcat\localhost\项目名称\SESSIONS.ser`
 
-![image](../img/JavaWeb/session钝化.png)
+![session钝化](cookie.assets/session钝化.png)
 
 ​			活化：再次启动服务器后，会从文件中加载数据到session中
 
