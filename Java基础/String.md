@@ -38,7 +38,7 @@ public final class String
 ​	如果一个 String 对象已经被创建过了，那么就会从 String Pool 中取得引用。只有 String 是不可	变的，才可能使用 String Pool。
 
 
-![image](../img/Java基础/string1.png)
+![string1](String.assets/string1.png)
 
 
 ###### 3.安全性
